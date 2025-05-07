@@ -10,3 +10,17 @@ tittle>
 </style>
 </head>
 <body>
+<header>
+    <h1>CodeTrack</h1>
+  </header>
+
+  <main>
+    <section id="repo-list">
+      <h2>Your Repositories</h2>
+      <ul id="repos"></ul>
+    </section>
+  </main>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
