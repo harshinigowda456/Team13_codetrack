@@ -20,3 +20,12 @@ ul {
   list-style: none;
   padding: 0;
 }
+
+
+
+const repoList = document.getElementById('repos');
+
+const mockRepos = [
+  { name: "PortfolioSite", lastCommit: "Updated homepage design" },
+  { name: "WeatherApp", lastCommit: "Fixed API bug" },
+
