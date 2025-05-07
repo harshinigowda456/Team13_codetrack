@@ -10,3 +10,13 @@ tittle>
 </style>
 </head>
 <body>
+
+
+main {
+  padding: 1rem;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
